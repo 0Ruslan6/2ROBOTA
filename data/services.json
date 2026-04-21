@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Веб-розробка",
+    "description": "Створення сучасних сайтів",
+    "price": 300,
+    "category": "development"
+  },
+  {
+    "title": "UI/UX Дизайн",
+    "description": "Дизайн інтерфейсів",
+    "price": 200,
+    "category": "design"
+  },
+  {
+    "title": "SEO",
+    "description": "Просування сайту в Google",
+    "price": 150,
+    "category": "marketing"
+  },
+  {
+    "title": "Навчання JS",
+    "description": "Вивчення JavaScript з нуля",
+    "price": 100,
+    "category": "education"
+  }
+]
